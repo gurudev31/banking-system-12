@@ -1,0 +1,11 @@
+# pack-refs with: peeled fully-peeled sorted 
+404bd6dfe0b64dc1ee9b4e42f8d86e387e33d07c refs/remotes/origin/dependabot/pip/celery-5.2.7
+324209f6503ac54135b7d7c96ac34aa28b472917 refs/remotes/origin/dependabot/pip/django-4.1.7
+f50f6a6289090a5ba738e9d6d72f846fe4819874 refs/remotes/origin/dependabot/pip/django-celery-beat-2.4.0
+73ed57f451e441f4ab8f23c514b83d317d22f58e refs/remotes/origin/dependabot/pip/redis-4.5.1
+9c3ee3eea75030280405506c62d968d646981c05 refs/remotes/origin/master
+1f0092ffa1d2735c0103e2aded271294368df88c refs/remotes/origin/v1.0
+5cef258555720e17270e7051aebc2159fccb0513 refs/tags/1.0.0
+136a90f02de1759f753eddeb1416896d2eaf8ae7 refs/tags/2.0.0
+71a7faece15a2f0a99f361465c85359093978abc refs/tags/2.0.1
+800b46b233a25da6eda81d875ccb02f2200adc31 refs/tags/2.0.2
